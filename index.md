@@ -292,7 +292,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
-  <h3>R</h3>
+  <h3>R and RStudio</h3>
 
   <p>
     <a href="http://www.r-project.org">R</a> is a programming language
