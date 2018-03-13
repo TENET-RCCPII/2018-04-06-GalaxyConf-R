@@ -177,6 +177,20 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
+<p id="registration">
+  <strong>Registration</strong>:
+  Please register by completing the <a href="https://goo.gl/forms/pb35hnbzbO4B7e2T2">online form</a>. Space is limited - first come first serve.
+</p>
+
+<p id="registration">
+  <strong>Cost</strong>:
+  The workshop is free of cost for participants of the Galaxy Africa Conference 2018.
+</p>
+<p id="funding">
+  <strong>Funding</strong>:
+  The workshop is made possible through support from the Rural Campuses Connection Project II (RCCPII), a DHET project managed by USAF and implemented by TENET.
+</p>
+
 <hr/>
 
 {% comment %}
