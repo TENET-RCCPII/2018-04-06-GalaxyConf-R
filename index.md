@@ -178,8 +178,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p id="registration">
-  <strong>Registration</strong>:
-  Please register by completing the <a href="https://goo.gl/forms/pb35hnbzbO4B7e2T2">online form</a>. Space is limited - first come first serve.
+  <strong>Participants: </strong>The workshop is open to all but preference will be given to participants from the University of Mauritius.  
+<font color="red"><strong>Registration:
+  Please register by completing the <a href="https://goo.gl/forms/pb35hnbzbO4B7e2T2">online form</a>. Space is limited - first come first serve.</strong></font>
 </p>
 
 <p id="registration">
